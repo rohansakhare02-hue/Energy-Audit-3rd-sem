@@ -9,6 +9,8 @@ It evaluates the department’s energy consumption, identifies major energy user
 
 ### 👩‍💻 Submitted By
 - **Rohan Sakhare (22265)**  
+- **Satyam Sonawane (22267)**  
+- **Rudraksh Samundare (22264)**  
 
 **Guided By:** Prof. V. B. Vijapurkar  
 **Department:** Electronics and Telecommunication Engineering  
@@ -85,3 +87,19 @@ It evaluates the department’s energy consumption, identifies major energy user
 ---
 
 ### 🗂️ Repository Contents
+```
+📁 Energy-Audit-Report/
+ ┣ 📄 ceP REPORT.docx      ← Detailed Audit Report
+ ┣ 📄 Calculation Table.xlsx (optional)
+ ┣ 📘 README.md            ← Project summary (this file)
+ ┗ 📄 Supporting Docs/ (optional: IoT design, datasheets)
+```
+
+---
+
+### 🏁 Conclusion
+This project demonstrates that systematic energy auditing, combined with simple conservation measures and IoT-based monitoring, can significantly reduce power usage, lower operational costs, and support sustainable campus development.
+
+---
+
+🪪 **License:** This project is for educational and research purposes under the CEP curriculum (PICT, Pune).
